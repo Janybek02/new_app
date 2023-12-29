@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#092337</color>
+    <color name="manuFoods">#101616</color>
+    <color name="food">#7B7B7B</color>
+</resources>
